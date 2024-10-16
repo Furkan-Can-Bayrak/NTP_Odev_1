@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\IkıMatrisinCarpimi\bin\Debug\IkıMatrisinCarpimi.exe.config
+C:\Users\furka\source\repos\Odev\IkıMatrisinCarpimi\bin\Debug\IkıMatrisinCarpimi.exe
+C:\Users\furka\source\repos\Odev\IkıMatrisinCarpimi\bin\Debug\IkıMatrisinCarpimi.pdb
+C:\Users\furka\source\repos\Odev\IkıMatrisinCarpimi\obj\Debug\IkıMatrisinCarpimi.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\IkıMatrisinCarpimi\obj\Debug\IkıMatrisinCarpimi.exe
+C:\Users\furka\source\repos\Odev\IkıMatrisinCarpimi\obj\Debug\IkıMatrisinCarpimi.pdb
+C:\Users\furka\source\repos\Odev\IkıMatrisinCarpimi\obj\Debug\IkıMatrisinCarpimi.csprojAssemblyReference.cache

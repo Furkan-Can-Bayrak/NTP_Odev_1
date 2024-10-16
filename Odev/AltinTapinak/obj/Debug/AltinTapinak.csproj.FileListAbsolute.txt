@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\AltinTapinak\bin\Debug\AltinTapinak.exe.config
+C:\Users\furka\source\repos\Odev\AltinTapinak\bin\Debug\AltinTapinak.exe
+C:\Users\furka\source\repos\Odev\AltinTapinak\bin\Debug\AltinTapinak.pdb
+C:\Users\furka\source\repos\Odev\AltinTapinak\obj\Debug\AltinTapinak.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\AltinTapinak\obj\Debug\AltinTapinak.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\AltinTapinak\obj\Debug\AltinTapinak.exe
+C:\Users\furka\source\repos\Odev\AltinTapinak\obj\Debug\AltinTapinak.pdb

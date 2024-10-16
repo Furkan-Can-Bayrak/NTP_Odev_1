@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\Odev\GirilenSayiyaKadarAsalSayilarToplami\bin\Debug\GirilenSayiyaKadarAsalSayilarToplami.exe.config
+C:\Users\furka\source\repos\Odev\GirilenSayiyaKadarAsalSayilarToplami\bin\Debug\GirilenSayiyaKadarAsalSayilarToplami.exe
+C:\Users\furka\source\repos\Odev\GirilenSayiyaKadarAsalSayilarToplami\bin\Debug\GirilenSayiyaKadarAsalSayilarToplami.pdb
+C:\Users\furka\source\repos\Odev\GirilenSayiyaKadarAsalSayilarToplami\obj\Debug\GirilenSayiyaKadarAsalSayilarToplami.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\GirilenSayiyaKadarAsalSayilarToplami\obj\Debug\GirilenSayiyaKadarAsalSayilarToplami.exe
+C:\Users\furka\source\repos\Odev\GirilenSayiyaKadarAsalSayilarToplami\obj\Debug\GirilenSayiyaKadarAsalSayilarToplami.pdb

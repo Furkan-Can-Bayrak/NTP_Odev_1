@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\TechCity\bin\Debug\TechCity.exe.config
+C:\Users\furka\source\repos\Odev\TechCity\bin\Debug\TechCity.exe
+C:\Users\furka\source\repos\Odev\TechCity\bin\Debug\TechCity.pdb
+C:\Users\furka\source\repos\Odev\TechCity\obj\Debug\TechCity.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\TechCity\obj\Debug\TechCity.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\TechCity\obj\Debug\TechCity.exe
+C:\Users\furka\source\repos\Odev\TechCity\obj\Debug\TechCity.pdb
