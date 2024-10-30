@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\OrtVeMedyan_Odev2\bin\Debug\OrtVeMedyan_Odev2.exe.config
+C:\Users\furka\source\repos\Odev\OrtVeMedyan_Odev2\bin\Debug\OrtVeMedyan_Odev2.exe
+C:\Users\furka\source\repos\Odev\OrtVeMedyan_Odev2\bin\Debug\OrtVeMedyan_Odev2.pdb
+C:\Users\furka\source\repos\Odev\OrtVeMedyan_Odev2\obj\Debug\OrtVeMedyan_Odev2.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\OrtVeMedyan_Odev2\obj\Debug\OrtVeMedyan_Odev2.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\OrtVeMedyan_Odev2\obj\Debug\OrtVeMedyan_Odev2.exe
+C:\Users\furka\source\repos\Odev\OrtVeMedyan_Odev2\obj\Debug\OrtVeMedyan_Odev2.pdb

@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\Odev\GizemliAda_Odev10\bin\Debug\GizemliAda_Odev10.exe.config
+C:\Users\furka\source\repos\Odev\GizemliAda_Odev10\bin\Debug\GizemliAda_Odev10.exe
+C:\Users\furka\source\repos\Odev\GizemliAda_Odev10\bin\Debug\GizemliAda_Odev10.pdb
+C:\Users\furka\source\repos\Odev\GizemliAda_Odev10\obj\Debug\GizemliAda_Odev10.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\GizemliAda_Odev10\obj\Debug\GizemliAda_Odev10.exe
+C:\Users\furka\source\repos\Odev\GizemliAda_Odev10\obj\Debug\GizemliAda_Odev10.pdb

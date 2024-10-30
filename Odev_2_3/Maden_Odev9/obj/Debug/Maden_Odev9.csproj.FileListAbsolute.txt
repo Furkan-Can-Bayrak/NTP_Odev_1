@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\Odev\Maden_Odev9\bin\Debug\Maden_Odev9.exe.config
+C:\Users\furka\source\repos\Odev\Maden_Odev9\bin\Debug\Maden_Odev9.exe
+C:\Users\furka\source\repos\Odev\Maden_Odev9\bin\Debug\Maden_Odev9.pdb
+C:\Users\furka\source\repos\Odev\Maden_Odev9\obj\Debug\Maden_Odev9.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\Maden_Odev9\obj\Debug\Maden_Odev9.exe
+C:\Users\furka\source\repos\Odev\Maden_Odev9\obj\Debug\Maden_Odev9.pdb

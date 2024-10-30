@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\ArdisikSayiGruplari_Odev3\bin\Debug\ArdisikSayiGruplari_Odev3.exe.config
+C:\Users\furka\source\repos\Odev\ArdisikSayiGruplari_Odev3\bin\Debug\ArdisikSayiGruplari_Odev3.exe
+C:\Users\furka\source\repos\Odev\ArdisikSayiGruplari_Odev3\bin\Debug\ArdisikSayiGruplari_Odev3.pdb
+C:\Users\furka\source\repos\Odev\ArdisikSayiGruplari_Odev3\obj\Debug\ArdisikSayiGruplari_Odev3.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\ArdisikSayiGruplari_Odev3\obj\Debug\ArdisikSayiGruplari_Odev3.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\ArdisikSayiGruplari_Odev3\obj\Debug\ArdisikSayiGruplari_Odev3.exe
+C:\Users\furka\source\repos\Odev\ArdisikSayiGruplari_Odev3\obj\Debug\ArdisikSayiGruplari_Odev3.pdb

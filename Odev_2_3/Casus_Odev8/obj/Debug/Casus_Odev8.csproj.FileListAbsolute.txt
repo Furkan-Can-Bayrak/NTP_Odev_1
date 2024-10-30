@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\Odev\Casus_Odev8\bin\Debug\Casus_Odev8.exe.config
+C:\Users\furka\source\repos\Odev\Casus_Odev8\bin\Debug\Casus_Odev8.exe
+C:\Users\furka\source\repos\Odev\Casus_Odev8\bin\Debug\Casus_Odev8.pdb
+C:\Users\furka\source\repos\Odev\Casus_Odev8\obj\Debug\Casus_Odev8.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\Casus_Odev8\obj\Debug\Casus_Odev8.exe
+C:\Users\furka\source\repos\Odev\Casus_Odev8\obj\Debug\Casus_Odev8.pdb

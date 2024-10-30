@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\Zarva_Odev7\bin\Debug\Zarva_Odev7.exe.config
+C:\Users\furka\source\repos\Odev\Zarva_Odev7\bin\Debug\Zarva_Odev7.exe
+C:\Users\furka\source\repos\Odev\Zarva_Odev7\bin\Debug\Zarva_Odev7.pdb
+C:\Users\furka\source\repos\Odev\Zarva_Odev7\obj\Debug\Zarva_Odev7.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\Zarva_Odev7\obj\Debug\Zarva_Odev7.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\Zarva_Odev7\obj\Debug\Zarva_Odev7.exe
+C:\Users\furka\source\repos\Odev\Zarva_Odev7\obj\Debug\Zarva_Odev7.pdb

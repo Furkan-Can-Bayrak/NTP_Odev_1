@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\IslemOnceligi_Odev4\bin\Debug\IslemOnceligi_Odev4.exe.config
+C:\Users\furka\source\repos\Odev\IslemOnceligi_Odev4\bin\Debug\IslemOnceligi_Odev4.exe
+C:\Users\furka\source\repos\Odev\IslemOnceligi_Odev4\bin\Debug\IslemOnceligi_Odev4.pdb
+C:\Users\furka\source\repos\Odev\IslemOnceligi_Odev4\obj\Debug\IslemOnceligi_Odev4.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\IslemOnceligi_Odev4\obj\Debug\IslemOnceligi_Odev4.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\IslemOnceligi_Odev4\obj\Debug\IslemOnceligi_Odev4.exe
+C:\Users\furka\source\repos\Odev\IslemOnceligi_Odev4\obj\Debug\IslemOnceligi_Odev4.pdb

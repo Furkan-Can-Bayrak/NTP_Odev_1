@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\ZamanYolculugu_Odev6\bin\Debug\ZamanYolculugu_Odev6.exe.config
+C:\Users\furka\source\repos\Odev\ZamanYolculugu_Odev6\bin\Debug\ZamanYolculugu_Odev6.exe
+C:\Users\furka\source\repos\Odev\ZamanYolculugu_Odev6\bin\Debug\ZamanYolculugu_Odev6.pdb
+C:\Users\furka\source\repos\Odev\ZamanYolculugu_Odev6\obj\Debug\ZamanYolculugu_Odev6.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\ZamanYolculugu_Odev6\obj\Debug\ZamanYolculugu_Odev6.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\ZamanYolculugu_Odev6\obj\Debug\ZamanYolculugu_Odev6.exe
+C:\Users\furka\source\repos\Odev\ZamanYolculugu_Odev6\obj\Debug\ZamanYolculugu_Odev6.pdb
