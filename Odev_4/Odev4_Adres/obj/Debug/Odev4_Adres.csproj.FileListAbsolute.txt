@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\Odev\Odev4_Adres\bin\Debug\Odev4_Adres.exe.config
+C:\Users\furka\source\repos\Odev\Odev4_Adres\bin\Debug\Odev4_Adres.exe
+C:\Users\furka\source\repos\Odev\Odev4_Adres\bin\Debug\Odev4_Adres.pdb
+C:\Users\furka\source\repos\Odev\Odev4_Adres\obj\Debug\Odev4_Adres.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\Odev4_Adres\obj\Debug\Odev4_Adres.exe
+C:\Users\furka\source\repos\Odev\Odev4_Adres\obj\Debug\Odev4_Adres.pdb

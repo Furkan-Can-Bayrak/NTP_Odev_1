@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\Odev\Odev2_Urun\bin\Debug\Odev2_Urun.exe.config
+C:\Users\furka\source\repos\Odev\Odev2_Urun\bin\Debug\Odev2_Urun.exe
+C:\Users\furka\source\repos\Odev\Odev2_Urun\bin\Debug\Odev2_Urun.pdb
+C:\Users\furka\source\repos\Odev\Odev2_Urun\obj\Debug\Odev2_Urun.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\Odev2_Urun\obj\Debug\Odev2_Urun.exe
+C:\Users\furka\source\repos\Odev\Odev2_Urun\obj\Debug\Odev2_Urun.pdb

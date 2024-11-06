@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\Odev1_BankAccount\bin\Debug\Odev1_BankAccount.exe.config
+C:\Users\furka\source\repos\Odev\Odev1_BankAccount\bin\Debug\Odev1_BankAccount.exe
+C:\Users\furka\source\repos\Odev\Odev1_BankAccount\bin\Debug\Odev1_BankAccount.pdb
+C:\Users\furka\source\repos\Odev\Odev1_BankAccount\obj\Debug\Odev1_BankAccount.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\Odev1_BankAccount\obj\Debug\Odev1_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\Odev1_BankAccount\obj\Debug\Odev1_BankAccount.exe
+C:\Users\furka\source\repos\Odev\Odev1_BankAccount\obj\Debug\Odev1_BankAccount.pdb

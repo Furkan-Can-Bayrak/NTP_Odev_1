@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\Odev\Odev3_AracKiralama\obj\Debug\Odev3_AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\Odev3_AracKiralama\bin\Debug\Odev3_AracKiralama.exe.config
+C:\Users\furka\source\repos\Odev\Odev3_AracKiralama\bin\Debug\Odev3_AracKiralama.exe
+C:\Users\furka\source\repos\Odev\Odev3_AracKiralama\bin\Debug\Odev3_AracKiralama.pdb
+C:\Users\furka\source\repos\Odev\Odev3_AracKiralama\obj\Debug\Odev3_AracKiralama.exe
+C:\Users\furka\source\repos\Odev\Odev3_AracKiralama\obj\Debug\Odev3_AracKiralama.pdb

@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\Odev5_Kutuphane\bin\Debug\Odev5_Kutuphane.exe.config
+C:\Users\furka\source\repos\Odev\Odev5_Kutuphane\bin\Debug\Odev5_Kutuphane.exe
+C:\Users\furka\source\repos\Odev\Odev5_Kutuphane\bin\Debug\Odev5_Kutuphane.pdb
+C:\Users\furka\source\repos\Odev\Odev5_Kutuphane\obj\Debug\Odev5_Kutuphane.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\Odev5_Kutuphane\obj\Debug\Odev5_Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\Odev5_Kutuphane\obj\Debug\Odev5_Kutuphane.exe
+C:\Users\furka\source\repos\Odev\Odev5_Kutuphane\obj\Debug\Odev5_Kutuphane.pdb
