@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Odev\Ornek_1\bin\Debug\Ornek_1.exe.config
+C:\Users\furka\source\repos\Odev\Ornek_1\bin\Debug\Ornek_1.exe
+C:\Users\furka\source\repos\Odev\Ornek_1\bin\Debug\Ornek_1.pdb
+C:\Users\furka\source\repos\Odev\Ornek_1\obj\Debug\Ornek_1.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Odev\Ornek_1\obj\Debug\Ornek_1.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\Ornek_1\obj\Debug\Ornek_1.exe
+C:\Users\furka\source\repos\Odev\Ornek_1\obj\Debug\Ornek_1.pdb
