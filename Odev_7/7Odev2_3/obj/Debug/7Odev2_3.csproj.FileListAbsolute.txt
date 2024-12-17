@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\Odev\7Odev2_3\obj\Debug\7Odev2_3.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev\7Odev2_3\bin\Debug\7Odev2_3.exe.config
+C:\Users\furka\source\repos\Odev\7Odev2_3\bin\Debug\7Odev2_3.exe
+C:\Users\furka\source\repos\Odev\7Odev2_3\bin\Debug\7Odev2_3.pdb
+C:\Users\furka\source\repos\Odev\7Odev2_3\obj\Debug\7Odev2_3.exe
+C:\Users\furka\source\repos\Odev\7Odev2_3\obj\Debug\7Odev2_3.pdb
